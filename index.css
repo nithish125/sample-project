@@ -1,4 +1,46 @@
-.p
-{
-    color:red; ;
+#bcr {
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+}
+
+h1 {
+    color: brown;
+    font-size: 31px;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: aliceblue;
+    font-size: 24px;
+}
+
+header p {
+    color: aliceblue;
+}
+
+.tag {
+    background-color: black;
+    color: aliceblue;
+}
+
+nav {
+
+    background-color: red;
+}
+
+nav a {
+    color: aliceblue;
+}
+
+.bold {
+    text-transform: uppercase;
+    color: #f30a56;
+    font-size: 22px;
+
+}
+
+h4 {
+    color: #f30a56;
+    font-size: 19px;
 }
