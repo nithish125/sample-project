@@ -8,15 +8,24 @@ h1 {
     color: brown;
     font-size: 31px;
     text-transform: uppercase;
+    z-index: 997;
+    transition: all 0.5s;
+    line-height: 57px;
+    margin: 0px 0px 0px 32px;
 }
 
 h3 {
     color: aliceblue;
     font-size: 24px;
+    line-height: 32px;
+    margin: 0px 0px 0px 32px
 }
 
 header p {
     color: aliceblue;
+    font-size: 13px;
+    line-height: 22px;
+    margin: 0px 0px 0px 32px;
 }
 
 .tag {
@@ -24,9 +33,17 @@ header p {
     color: aliceblue;
 }
 
+.gab {
+    margin: 0px 0px 0px 32px;
+    line-height: 26px;
+
+}
+
 nav {
 
     background-color: red;
+    display: flex;
+    justify-content: center;
 }
 
 nav a {
@@ -37,10 +54,49 @@ nav a {
     text-transform: uppercase;
     color: #f30a56;
     font-size: 22px;
-
+    line-height: 54px;
+    margin: 0px 0px 0px 32px
 }
 
 h4 {
     color: #f30a56;
     font-size: 19px;
+    margin: -1px 0px 0px 32px;
+    line-height: 32px;
+
+}
+
+.para {
+    margin: 0px 0px 0px 32px;
+    line-height: 31px;
+
+}
+
+.mar {
+    margin: 0px 397px 78px 559px;
+}
+
+.bard {
+    display: flex;
+    justify-content: center;
+}
+
+.fsd {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: grey;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    color: yellow;
+    padding: 20px 0px 0px 60px;
 }
