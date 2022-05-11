@@ -1,0 +1,332 @@
+/* .fullbody {
+    width: 903px;
+    margin: 0px 0px 0px 105px;
+}
+
+.name h1 {
+    font-size: 34px;
+    text-transform: capitalize;
+    padding: 63px 0px 0px 45px;
+    color: #c44a3d;
+}
+
+.name {
+    background-color: #101f26;
+}
+
+.name h3 {
+    font-size: 21px;
+    margin: 4px 0px 0px 44px;
+    color: #f7fdff;
+    text-transform: capitalize;
+}
+
+.name p {
+    color: #eef3f5;
+    padding: 10px 0px 20px 44px;
+    line-height: 22px;
+}
+
+.navication {
+    background-color: #d64339;
+    text-align: center;
+    line-height: 44px;
+}
+.navication a{
+    padding-right: 40px;
+    color: #f7fdff;
+}
+
+.keyskills h2 {
+    font-size: 18px;
+    color: #b2524a;
+    padding: 39px 0px 0px 48px;
+}
+.technicalskills h2 {
+    margin: 161px 0px 0px 51px;
+    text-transform: uppercase;
+    color: #d652;
+} */
+
+.fullbody {
+    width: 817px;
+    margin: 0px 0px 0px 130px;
+}
+
+.hed {}
+
+.name {
+    background-color: #101f26;
+
+}
+
+.name h1 {
+    text-transform: capitalize;
+    font-size: 30px;
+    padding: 66px 0px 0px 47px;
+    color: #c64c44;
+}
+
+.name h3 {
+    font-size: 20px;
+    color: #f5ffff;
+    padding: 4px 0px 0px 49px;
+
+}
+
+.name p {
+    color: #f2f6f8;
+    padding: 10px 0px 19px 45px;
+    line-height: 24px;
+    font-style: italic;
+}
+
+.navication {
+    background-color: #d64339;
+    text-align: center;
+
+}
+
+.navication a {
+    line-height: 43px;
+    color: #f2f6f8;
+    padding: 0px 33px 0px 1px;
+}
+
+.keyskills {
+    margin: 38px 0 18px 46px;
+
+}
+
+.keyskills h2 {
+    color: red;
+    position: relative;
+}
+
+.keyskills h2::before {
+    content: "";
+    height: 43px;
+    width: 31px;
+    background-color: #d54438;
+    position: absolute;
+    left: -43px;
+    top: -12px
+}
+
+.key .skill2 {
+    margin: -13px 0px 19px 16px;
+}
+
+.skill2 span {
+    background-color: black;
+    color: aliceblue;
+    margin: 0 46px 0 -4px;
+    padding: 8px 1px 3px 5px;
+    line-height: 0;
+    border-radius: 6px;
+
+}
+.skill3{
+    margin: -5px 0px 25px 6px;
+}
+
+.skill3 span {
+    background-color: black;
+    color: aliceblue;
+    margin: 0px 17px 0px 20px;
+    padding: 4px 1px 5px 0px;
+    line-height: 2;
+    border-radius: 6px;
+}
+
+.skill1 span {
+    background-color: black;
+    color: aliceblue;
+    margin: 38px 54px 24px 27p;
+    padding: 5px 9px;
+    line-height: 85px;
+    border-radius: 6px;
+}
+
+
+.technicalskills h2 {
+    padding: 13px 0px 0px 45px;
+    color: red;
+    position: relative;
+
+}
+
+.technicalskills h2 ::before {
+    content: "";
+    height: 43px;
+    width: 31px;
+    background-color: #d54438;
+    position: absolute;
+    left: 7px;
+    top: -1px;
+
+}
+
+.technicalskills p {
+    line-height: 1px;
+    margin: 30px 9px -7px 49px;
+}
+
+.experience {
+    margin: 52px 0px 25px 48px;
+
+}
+
+.experience h2 {
+    color: red;
+    position: relative;
+
+}
+
+.experience h2 ::before {
+    content: "";
+    height: 43px;
+    width: 31px;
+    background-color: #d54438;
+    position: absolute;
+    left: -43px;
+    top: -12px
+}
+
+.experience .paragraph h4 {
+    margin: 24px 0px 0px 0px;
+    font-size: 18px;
+    line-height: 11px;
+    color: red;
+}
+
+.paragraph ul {
+    line-height: 2;
+    margin: 11px 0px 0px 18px;
+
+}
+
+.paragraph ul li {
+    line-height: 22px;
+}
+
+.experience .paragraph2 {
+    margin: 11px 0px 0px 6px;
+
+}
+
+.experience .paragraph2 h4 {
+    line-height: 26px;
+    font-size: 18px;
+    margin: -1px 0px 0px -5px;
+    color: red;
+}
+
+.experience .paragraph2 ul .sm {
+
+
+    font-style: italic;
+    margin: 11px 0px 0px -5px;
+    font-size: 12px
+}
+
+.paragraph2 ul p {
+    margin: 16px 0px 0px -7px;
+    line-height: 20px;
+}
+
+.paragraph2 ul li {
+    margin: 5px 0px 0px 10px;
+}
+
+.tab {
+    position: relative;
+}
+
+.tab h2 ::before {
+    content: "";
+    height: 43px;
+    width: 31px;
+    background-color: #d54438;
+    position: absolute;
+    left: 8px;
+    top: -12px;
+}
+
+.tab h2 {
+    margin: 9px 0px 0px 44px;
+    color: red;
+    font-weight: bold;
+}
+
+.tab h4 {
+    margin: 25px 0px 30px 46px;
+    color: red;
+    font-size: 19px
+}
+
+.tab table{
+
+}
+
+table tr th {
+    border: 3px solid;
+    background-color: darkturquoise;
+    padding: 0px 16px 0px 16px;
+    line-height: 50px;
+    text-align: center;
+}
+
+table tr td {
+    border: 3px solid darkgreen;
+    background-color: darkgoldenrod;
+    line-height: 40px;
+    text-align: center;
+}
+.form {
+    color: yellow;
+    padding: 20px 0px 0px 60px;
+}
+
+input {
+    max-width: 900px;
+    padding: 1px 2px;
+}
+
+#b {
+    background-color: blue;
+    cursor: pointer;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: grey;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.heading {
+    color: red;
+}
+
+a {
+    color: red;
+}
+
+.mar {
+    margin: 0px 397px 78px 559px;
+}
+
+.bard {
+    display: flex;
+    justify-content: center;
+}
+
+.fsd {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
